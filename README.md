@@ -19,7 +19,7 @@ My focus is on interpreting data to highlight opportunities, building dashboards
 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Data Analytics Portfolio](https://github.com/Michelle-eze/data-analysis-portfolio)
+<!-- ### [🏆 Check Out My Data Analytics Portfolio](https://github.com/Michelle-eze/data-analysis-portfolio) -->
       
 
 ## 🛠️ Technical Skillset
